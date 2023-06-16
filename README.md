@@ -1,2 +1,2 @@
 # landing-page
-Exercise  from the Odin Project to do a landing-page
+Exercise  from The Odin Project https://www.theodinproject.com/ how to style a landing-page
